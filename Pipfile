@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+requests = "*"
+pyquery = "*"
+"beautifulsoup4" = "*"
+pymongo = "*"
+ipykernel = "*"
 
 [dev-packages]
 
