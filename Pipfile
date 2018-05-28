@@ -9,6 +9,7 @@ pyquery = "*"
 "beautifulsoup4" = "*"
 pymongo = "*"
 ipykernel = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
