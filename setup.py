@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'requests',
-        'dotenv',
+        'python-dotenv',
         'pyquery',
         'pymongo',
     ],
