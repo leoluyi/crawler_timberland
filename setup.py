@@ -1,6 +1,5 @@
 from setuptools import setup, find_packages
 
-
 setup(
     name='crawler_timberland',
     version='0.0.1',
